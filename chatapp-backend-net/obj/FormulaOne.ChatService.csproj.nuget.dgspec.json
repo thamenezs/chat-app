@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\ProjetoChat\\FormulaOne.ChatService\\FormulaOne.ChatService.csproj": {}
+    "C:\\Users\\User\\Documents\\ProjetoChat\\chatapp-backend-net\\FormulaOne.ChatService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\ProjetoChat\\FormulaOne.ChatService\\FormulaOne.ChatService.csproj": {
+    "C:\\Users\\User\\Documents\\ProjetoChat\\chatapp-backend-net\\FormulaOne.ChatService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\ProjetoChat\\FormulaOne.ChatService\\FormulaOne.ChatService.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\ProjetoChat\\chatapp-backend-net\\FormulaOne.ChatService.csproj",
         "projectName": "FormulaOne.ChatService",
-        "projectPath": "C:\\Users\\User\\Documents\\ProjetoChat\\FormulaOne.ChatService\\FormulaOne.ChatService.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\ProjetoChat\\chatapp-backend-net\\FormulaOne.ChatService.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\ProjetoChat\\FormulaOne.ChatService\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\ProjetoChat\\chatapp-backend-net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
