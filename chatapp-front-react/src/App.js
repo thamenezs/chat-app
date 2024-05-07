@@ -50,7 +50,7 @@ function App() {
         <Container>
           <Row class="px-5 my-5">
             <Col sm="12">
-              <h1 className="font-wieght-light">Welcome to the F1 ChatApp</h1>
+              <h1 className="font-wieght-light">Welcome to ChatApp</h1>
             </Col>
           </Row>
           {!conn ? (
