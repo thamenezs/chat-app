@@ -29,7 +29,7 @@ Projeto de chat em tempo real com frontend React e backend em C# utilizando WebS
 ## Tecnologias
 
 - **Frontend:** React
-- **Backend:** C#, ASP.NET Core, WebSockets
+- **Backend:** C#, ASP.NET Core, SignalR
 
 ## Estrutura do Projeto
 
